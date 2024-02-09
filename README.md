@@ -3,7 +3,7 @@ Hi, I am Maqbool Ali Shah
 <img src="./gifs/wave.gif" width="35">
 </h1>
 <b>  
-👋 Hello! I'm a Full Stack Developer with 2 years of hands-on experience in creating robust and innovative web applications. I specialize in Node.js and React.js, and I'm dedicated to delivering high-quality, scalable, and user-friendly solutions.
+ Hello! I'm a Full Stack Developer with 2 years of hands-on experience in creating robust and innovative web applications. I specialize in Node.js and React.js, and I'm dedicated to delivering high-quality, scalable, and user-friendly solutions.
 <img src="./gifs/coder.gif" width="35">
 </b>
 
